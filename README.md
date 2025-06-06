@@ -1,5 +1,6 @@
-<h3 align="center">AI Major @ Utrecht University</h3>
-<h4 align="center">Minor informatics & Data scientist</h4>
+<h3 align="center">👨‍🎓 AI Major @ Utrecht University</h3>
+<h4 align="center">📘Minor informatics</h4>
+<h5 align="center">👨‍🏫 Data scientist, Math & CS Tutor</h5>
 
 
 # UniversityProjects
@@ -12,9 +13,9 @@ A collection of my University given assigments.
 | 1  | Sudoku Solver v1  | Sudoku Solver with ILS         | [C#]      |
 | 2  | Sudoku Solver v2  | Sudoku Solver with MCV FC      | [C#]      |
 | 3  | Reversi           | Small Reversi game             | [C#]      |
-| 4  | Beltmatic Calculator  | Calculate biggest possible dividers      | [Py]      |
-| 5  | Paint+   | Windows like paint application      | [C#]      |
-| 6  | PlanetGen   | A seed based random planet generator    | [Py]      |
+| 4  | Paint+   | Windows like paint application      | [C#]      |
+| 5  | PlanetGen   | A seed based random planet generator    | [Py]      |
+| 6  | Beltmatic Calculator  | Calculate biggest possible dividers      | [Py]      |
 
 ## 📝 Academic Paper Overview
 
