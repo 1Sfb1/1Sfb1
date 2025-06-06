@@ -14,6 +14,7 @@ A collection of my University given assigments.
 | 3  | Reversi           | Small Reversi game             | [C#]      |
 | 4  | Beltmatic Calculator  | Calculate biggest possible dividers      | [Py]      |
 | 5  | Paint+   | Windows like paint application      | [C#]      |
+| 6  | PlanetGen   | A seed based random planet generator    | [Py]      |
 
 ## 📝 Academic Paper Overview
 
