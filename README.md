@@ -1,9 +1,11 @@
-<h3 align="center">Student AI @ Utrecht University</h3>
+<h3 align="center">AI Major @ Utrecht University</h3>
+<h4 align="center">Minor informatics & Data scientist</h4>
+
 
 # UniversityProjects
 A collection of my University given assigments.
 
-## 📂 Assignment Overview
+## 📂 Code Assignment Overview
 
 | #  | Assignment    | Description                        | Language  |
 |----|-------------------|--------------------------------|--------------|
@@ -11,7 +13,12 @@ A collection of my University given assigments.
 | 2  | Sudoku Solver v2  | Sudoku Solver with MCV FC      | [C#]      |
 | 3  | Reversi           | Small Reversi game             | [C#]      |
 | 4  | Beltmatic Calculator  | Calculate biggest possible dividers      | [Py]      |
-| 5  | Mandelbrot   | Mandelbrot set      | [C#]      |
+| 5  | Paint+   | Windows like paint application      | [C#]      |
 
+## 📝 Academic Paper Overview
+
+| #  | Title    | Description                        | Language  |
+|----|-------------------|--------------------------------|--------------|
+| 1 | The use of xAI to explain black box models | An analysis of xAI models | English |
 
 
