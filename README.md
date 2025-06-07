@@ -2,7 +2,7 @@
 <h4 align="center">📘Minor informatics</h4>
 <h5 align="center">👨‍🏫 Data scientist, Math & CS Tutor</h5>
 
-# UniversityProjects
+# Projects
 
 A collection of my University/Work related assigments.
 
