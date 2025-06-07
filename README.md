@@ -4,7 +4,13 @@
 
 # UniversityProjects
 
-A collection of my University given assigments.
+A collection of my University/Work related assigments.
+
+## 💼 Code Assignment Overview
+
+| #  | Title                                      | Description                 | Language |
+| :--- | :----------------------------------------- | :-------------------------- | :------- |
+| 1  | XGBoost prediction model | A data driven regression model trained to predict future delays   | [Py]  |
 
 ## 📂 Code Assignment Overview
 
