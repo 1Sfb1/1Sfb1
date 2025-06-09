@@ -6,11 +6,17 @@
 
 A collection of my University/Work related assigments.
 
+## 🚀 Solo projects Overview
+
+| #  | Title                                      | Description                 | Language | Required |
+| :--- | :----------------------------------------- | :-------------------------- | :------- |:------|
+| 1  | Customer review summarization | A Gradio webpage with review scraper and Dutch context model to summarize customer reviews | [Py]  | NLP, spaCy, UC, Pandas, Gradio, Huggingface |
+
 ## 💼 Code Assignment Overview
 
-| #  | Title                                      | Description                 | Language |
-| :--- | :----------------------------------------- | :-------------------------- | :------- |
-| 1  | XGBoost prediction model | A data driven regression model trained to predict future delays   | [Py]  |
+| #  | Title                                      | Description                 | Language | Required |
+| :--- | :----------------------------------------- | :-------------------------- | :------- | :--------|
+| 1  | XGBoost prediction model | A data driven regression model trained to predict future delays   | [Py]  | ML, Pandas, SQL, NumPy, SKlearn |
 
 ## 📂 Code Assignment Overview
 
