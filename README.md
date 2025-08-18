@@ -1,5 +1,5 @@
 <h3 align="center">👨‍🎓 AI Major @ Utrecht University</h3>
-<h4 align="center">📘Minor informatics</h4>
+<h4 align="center">📘Minor mathematics</h4>
 <h5 align="center">👨‍🏫 Data scientist, Math & CS Tutor</h5>
 
 # Projects
