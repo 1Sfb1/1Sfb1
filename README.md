@@ -35,3 +35,4 @@ A collection of my University/Work related assigments.
 | #  | Title                                      | Description                 | Language |
 | :--- | :----------------------------------------- | :-------------------------- | :------- |
 | 1  | The use of xAI to explain black box models | An analysis of xAI models   | English  |
+| 2  | Wat is... PCA? | An analysis of PCA from a mathemical perspective  | Dutch  |
