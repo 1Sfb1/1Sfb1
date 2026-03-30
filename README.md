@@ -17,6 +17,7 @@ A collection of my University/Work related assigments.
 | #  | Title                                      | Description                 | Language | Required |
 | :--- | :----------------------------------------- | :-------------------------- | :------- | :--------|
 | 1  | XGBoost prediction model | A data driven regression model trained to predict future delays   | [Py]  | ML, Pandas, SQL, NumPy, SKlearn |
+| 2  | HAGA FolderAssistent RAG System  | A production-ready retrieval-augmented generation system that makes 1,600+ Dutch patient information PDFs searchable via natural language. Implements hybrid search (BM25 + dense embeddings via RRF), HyDE for query enrichment, and multi-language support. Powered by FastAPI backend, ChromaDB vector store, GPT-4o-mini generation, and ONNX-based TTS.   | [Py]  | FastAPI, ChromaDB, OpenAI API, rank-bm25, multilingual-e5-large, kokoro-onnx, ONNX Runtime |
 
 ## 📂 Code Assignment Overview
 
